@@ -1,0 +1,50 @@
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWayTest.Tests.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWayTest.Tests.pdb
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\ConsoleApp.Client.exe
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWay.Service.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\WindowsForms.Client.exe
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\ConsoleApp.Client.pdb
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\ConsoleApp.Client.exe.config
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWay.Service.pdb
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWay.Service.dll.config
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\WindowsForms.Client.pdb
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\WindowsForms.Client.exe.config
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.csprojAssemblyReference.cache
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.csproj.CopyComplete
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.dll
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.pdb
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWayTest.Tests.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWayTest.Tests.pdb
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\ConsoleApp.Client.exe
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWay.Service.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\WindowsForms.Client.exe
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\ConsoleApp.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\LemonWay.Service.pdb
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\WindowsForms.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\obj\Debug\LemonWayTest.Tests.pdb
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\log4net.config
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\log4net.dll
+C:\Users\DELL\Desktop\LemonWayTest\LemonWayTest.Tests\bin\Debug\log4net.xml

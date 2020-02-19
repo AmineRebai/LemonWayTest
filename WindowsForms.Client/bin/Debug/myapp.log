@@ -1,0 +1,3 @@
+2020-02-19 17:04:21,567 [9] INFO WindowsForms.Client.Form1 - Fibonacci de 10 est :55
+2020-02-19 17:04:37,852 [9] INFO WindowsForms.Client.Form1 - Format json de <foo>Hello World!</foo> est :{"foo":"Hello World!"}
+2020-02-19 17:04:44,191 [9] INFO WindowsForms.Client.Form1 - Format json de <foo>Hello World!</foo>gte est :Bad Xml format

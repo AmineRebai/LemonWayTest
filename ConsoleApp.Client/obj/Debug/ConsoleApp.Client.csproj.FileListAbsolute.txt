@@ -1,0 +1,15 @@
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\ConsoleApp.Client\bin\Debug\ConsoleApp.Client.exe.config
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\ConsoleApp.Client\bin\Debug\ConsoleApp.Client.exe
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\ConsoleApp.Client\bin\Debug\ConsoleApp.Client.pdb
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\ConsoleApp.Client\obj\Debug\ConsoleApp.Client.csprojAssemblyReference.cache
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\ConsoleApp.Client\obj\Debug\ConsoleApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\ConsoleApp.Client\obj\Debug\ConsoleApp.Client.exe
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\ConsoleApp.Client\obj\Debug\ConsoleApp.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\bin\Debug\ConsoleApp.Client.exe.config
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\bin\Debug\ConsoleApp.Client.exe
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\bin\Debug\ConsoleApp.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\obj\Debug\ConsoleApp.Client.exe
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\obj\Debug\ConsoleApp.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\bin\Debug\log4net.dll
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\bin\Debug\log4net.xml
+C:\Users\DELL\Desktop\LemonWayTest\ConsoleApp.Client\bin\Debug\log4net.config

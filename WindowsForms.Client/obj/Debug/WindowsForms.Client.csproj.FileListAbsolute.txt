@@ -1,0 +1,23 @@
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\bin\Debug\WindowsForms.Client.exe.config
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\bin\Debug\WindowsForms.Client.exe
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\bin\Debug\WindowsForms.Client.pdb
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.csprojAssemblyReference.cache
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.Form1.resources
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.Properties.Resources.resources
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.WaitForm.resources
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.csproj.GenerateResource.cache
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.csproj.CoreCompileInputs.cache
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.exe
+C:\Users\Amine Rebai PRO\source\repos\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\bin\Debug\WindowsForms.Client.exe.config
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\bin\Debug\WindowsForms.Client.exe
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\bin\Debug\WindowsForms.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.Form1.resources
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.Properties.Resources.resources
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.WaitForm.resources
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.exe
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\obj\Debug\WindowsForms.Client.pdb
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\bin\Debug\log4net.dll
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\bin\Debug\log4net.xml
+C:\Users\DELL\Desktop\LemonWayTest\WindowsForms.Client\bin\Debug\log4net.config
